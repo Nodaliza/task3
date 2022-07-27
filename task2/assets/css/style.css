@@ -1,0 +1,51 @@
+.color{
+  color:rgb(0, 255, 213);
+  font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  
+  .title{
+  color:black;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif
+  
+  }
+  
+  #pharagraph{ 
+    color:black;
+    text-align: center;
+    font-size: larger;
+
+  }
+
+  input{
+    margin:30px;
+    width: 250px;
+    height: 25px;
+    border-width: 2px;
+    border-color:rgb(0, 255, 213) ;
+    margin-left: 85px;
+
+  }
+
+    textarea{
+    margin-left:85px;    
+    height:100px; 
+    width:85%;
+    border-color:rgb(0, 255, 213) ;
+    border-width:2px ;
+    resize:none;
+    
+  }
+
+
+input[type=button] {
+    width:150px;
+    height:40px;
+    margin-left: 85px;
+    border-radius: 20px;
+    border-color:rgb(0, 255, 213) ;
+    color:white;
+    background-color:rgb(0, 255, 213);
+    
+  }
